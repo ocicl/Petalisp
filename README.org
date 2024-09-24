@@ -4,6 +4,6 @@ Elegant High Performance Computing
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/marcoheisig/Petalisp.git |
-| commit  | 76d2e5b                                         |
+| commit  | 09a28a9                                         |
 | systems | petalisp petalisp.utilities                     |
 |---------+-------------------------------------------------|
